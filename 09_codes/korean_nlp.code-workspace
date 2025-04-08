@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "korean_nlp",
+			"path": "../../../../../../korean_nlp"
+		},
+		{
+			"name": "09_codes",
+			"path": "."
+		},
+		{
+			"name": "한국어정보처리",
+			"path": "../../2025/2025-1 학교/한국어정보처리"
+		},
+		{
+			"name": "venv38",
+			"path": "../../../../venv38"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
